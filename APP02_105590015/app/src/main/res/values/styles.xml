@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <string-array name="list">
+            <item>我覺得Android Programming很有趣</item>
+            <item>我覺得Android Programming上課很無聊</item>
+            <item>我覺得Android Programming作業很簡單</item>
+            <item>我覺得Android Programming上傳作業很麻煩</item>
+            <item>我覺得Android Programming很複雜</item>
+        </string-array>
+    </style>
+
+</resources>
